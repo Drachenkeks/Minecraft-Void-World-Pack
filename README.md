@@ -3,5 +3,6 @@ test files and storage for the "Void World" (workingtitle) Modpack
 
 Currently working on:
 - IE excavator and ore veins issues
+- remodeling/-texturing pipes and blocks in a "Create" style
 - skyblock world generation
 - weather and mob spawning issues do to "the_void" biome
